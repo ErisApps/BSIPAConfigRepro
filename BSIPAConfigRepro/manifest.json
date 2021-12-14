@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/beat-saber-modding-group/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "BSIPAConfigRepro",
+  "name": "BSIPAConfigRepro",
+  "author": "Eris",
+  "version": "1.0.0",
+  "description": "A plugin to reproduce a BSIPA config issue regarding nullable primitive types",
+  "gameVersion": "1.19.0",
+  "dependsOn": {
+    "BSIPA": "^4.2.1-pre.2"
+  }
+}
